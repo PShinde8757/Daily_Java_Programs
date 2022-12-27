@@ -1,10 +1,11 @@
-public class ClassMonitor extends Student{
+public class ClassMonitor extends Student {
 
-    public void monitorClass(){
-        System.out.println("Class Monitor "+name+" is Monitoring Class");
+    public void monitorClass() {
+        System.out.println("Class Monitor " + name + " is Monitoring Class");
     }
-    public ClassMonitor(String name){
-        this.name=name;
+
+    public ClassMonitor(String name) {
+        this.name = name;
     }
 
     @Override
@@ -39,6 +40,6 @@ public class ClassMonitor extends Student{
 
     @Override
     public String toString() {
-        return "ClassMonitor{ "+super.toString()+" }";
+        return "ClassMonitor{ " + super.toString() + " }";
     }
 }

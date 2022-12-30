@@ -1,4 +1,12 @@
 package Shapes;
 
-public class Square {
+import Feature.Shape;
+
+public class Square extends Shape {
+
+
+    @Override
+    public void calculateArea(int x, int y) {
+        area=x*y;
+    }
 }

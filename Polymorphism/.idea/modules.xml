@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../Immutable Class Example/Immutable Class Example.iml" filepath="$PROJECT_DIR$/../Immutable Class Example/Immutable Class Example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Inner static and Inner non-static classes examples/Inner static and Inner non-static classes examples.iml" filepath="$PROJECT_DIR$/../Inner static and Inner non-static classes examples/Inner static and Inner non-static classes examples.iml" />
     </modules>
   </component>
 </project>

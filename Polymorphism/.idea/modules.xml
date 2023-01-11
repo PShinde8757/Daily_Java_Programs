@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../Inner static and Inner non-static classes examples/Inner static and Inner non-static classes examples.iml" filepath="$PROJECT_DIR$/../Inner static and Inner non-static classes examples/Inner static and Inner non-static classes examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Generic Example/Generic Example.iml" filepath="$PROJECT_DIR$/../Generic Example/Generic Example.iml" />
     </modules>
   </component>
 </project>

@@ -13,7 +13,7 @@ class Employee{
 }
 
 
-public class Main {
+public class StreamExample {
     public static void main(String[] args) {
 
 

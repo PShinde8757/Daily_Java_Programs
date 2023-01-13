@@ -6,7 +6,7 @@ interface FunctionalTest{
     int display(int a);
 }
 
-public class Main {
+public class lambdaExpression {
     public static void main(String[] args) {
 
         System.out.println("********************************************************");

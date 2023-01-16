@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Casting/Casting.iml" filepath="$PROJECT_DIR$/Casting/Casting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class_Object_In_Java/Class_Object_In_Java.iml" filepath="$PROJECT_DIR$/Class_Object_In_Java/Class_Object_In_Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Conditonal-Statment/Conditonal-Statment.iml" filepath="$PROJECT_DIR$/Conditonal-Statment/Conditonal-Statment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Constructor Example/Constructor Example.iml" filepath="$PROJECT_DIR$/Constructor Example/Constructor Example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Control Statment/Control Statment.iml" filepath="$PROJECT_DIR$/Control Statment/Control Statment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Copy Constructor/Copy Constructor.iml" filepath="$PROJECT_DIR$/Copy Constructor/Copy Constructor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Daily_Java_Programs.iml" filepath="$PROJECT_DIR$/.idea/Daily_Java_Programs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Default Constructor/Default Constructor.iml" filepath="$PROJECT_DIR$/Default Constructor/Default Constructor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Full Abstraction/Diamond Problem Solution/Diamond Problem Solution.iml" filepath="$PROJECT_DIR$/Full Abstraction/Diamond Problem Solution/Diamond Problem Solution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Diamond Problem Solution/Diamond Problem Solution1.iml" filepath="$PROJECT_DIR$/Diamond Problem Solution/Diamond Problem Solution1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Encapsulation/Encapsulation.iml" filepath="$PROJECT_DIR$/Encapsulation/Encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Enum Example/Enum Example.iml" filepath="$PROJECT_DIR$/Enum Example/Enum Example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exception Handling/Exception Handling.iml" filepath="$PROJECT_DIR$/Exception Handling/Exception Handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Full Abstraction/Full Abstraction.iml" filepath="$PROJECT_DIR$/Full Abstraction/Full Abstraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generic Example/Generic Example.iml" filepath="$PROJECT_DIR$/Generic Example/Generic Example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generics Example/Generics Example.iml" filepath="$PROJECT_DIR$/Generics Example/Generics Example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Getter Setter/Getter Setter.iml" filepath="$PROJECT_DIR$/Getter Setter/Getter Setter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Homework/Homework.iml" filepath="$PROJECT_DIR$/Homework/Homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Immutable Class Example/Immutable Class Example.iml" filepath="$PROJECT_DIR$/Immutable Class Example/Immutable Class Example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inner static and Inner non-static classes examples/Inner static and Inner non-static classes examples.iml" filepath="$PROJECT_DIR$/Inner static and Inner non-static classes examples/Inner static and Inner non-static classes examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loops In Java/Loops In Java.iml" filepath="$PROJECT_DIR$/Loops In Java/Loops In Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/No_Args_Constructor/No_Args_Constructor.iml" filepath="$PROJECT_DIR$/No_Args_Constructor/No_Args_Constructor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Package-Example/Package-Example.iml" filepath="$PROJECT_DIR$/Package-Example/Package-Example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Parameterized_Constructor/Parameterized_Constructor.iml" filepath="$PROJECT_DIR$/Parameterized_Constructor/Parameterized_Constructor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Partial Abstraction/Partial Abstraction.iml" filepath="$PROJECT_DIR$/Partial Abstraction/Partial Abstraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polymorphism/Polymorphism.iml" filepath="$PROJECT_DIR$/Polymorphism/Polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stream Example/Stream.iml" filepath="$PROJECT_DIR$/Stream Example/Stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test Loop/Test Loop.iml" filepath="$PROJECT_DIR$/Test Loop/Test Loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lambda expression example/lambda expression example.iml" filepath="$PROJECT_DIR$/lambda expression example/lambda expression example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nested-if-else/nested-if-else.iml" filepath="$PROJECT_DIR$/nested-if-else/nested-if-else.iml" />
+    </modules>
+  </component>
+</project>

@@ -24,27 +24,18 @@ public class StudentStreamExample {
         studentList.add(new Student("Vinod","Gupta",4,'D'));
         studentList.add(new Student("Vikram","Gupta",5,'B'));
 
-        Stream<Student> studentStream = studentList.stream();
+       Stream<Student> studentStream = studentList.stream().filter(student -> student.rollNumber>10);
 
-        Stream<Student> studentStream1 = studentStream.filter((student) -> {
-            return student.rollNumber > 10;
-        });
+       studentStream.forEach(student -> System.out.println("First Name: "+student.firstName+" Roll Number: "+student.rollNumber));
 
-        studentStream1.forEach(student -> System.out.println("First Name : " + student.firstName+
-                " Roll Number: " + student.rollNumber));
-
-        Stream<Student> studentStreamNew = studentList.stream();
-
-        System.out.println(studentStreamNew.count());
+       Stream<Student> studentStreamNew = studentList.stream();
+       System.out.println(studentStreamNew.count());
 
         Stream<Student> studentStreamNew2 = studentList.stream();
 
-        Stream<Integer> rollNumberStream = studentStreamNew2.map(student -> {
-            return student.rollNumber;
-        });
+        Stream<Integer> rollNumberStream = studentStreamNew2.map(student ->student.rollNumber);
 
         //Integer::intValue --> ClassName :: methodName
         System.out.println("Sum of IDs: "+ rollNumberStream.mapToInt(Integer::intValue).sum());
-
     }
 }

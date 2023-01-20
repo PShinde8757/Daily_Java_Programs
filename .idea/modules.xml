@@ -28,6 +28,7 @@
       <module fileurl="file://$PROJECT_DIR$/Package-Example/Package-Example.iml" filepath="$PROJECT_DIR$/Package-Example/Package-Example.iml" />
       <module fileurl="file://$PROJECT_DIR$/Parameterized_Constructor/Parameterized_Constructor.iml" filepath="$PROJECT_DIR$/Parameterized_Constructor/Parameterized_Constructor.iml" />
       <module fileurl="file://$PROJECT_DIR$/Partial Abstraction/Partial Abstraction.iml" filepath="$PROJECT_DIR$/Partial Abstraction/Partial Abstraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pass By Value/Pass By Value.iml" filepath="$PROJECT_DIR$/Pass By Value/Pass By Value.iml" />
       <module fileurl="file://$PROJECT_DIR$/Polymorphism/Polymorphism.iml" filepath="$PROJECT_DIR$/Polymorphism/Polymorphism.iml" />
       <module fileurl="file://$PROJECT_DIR$/Stream Example/Stream.iml" filepath="$PROJECT_DIR$/Stream Example/Stream.iml" />
       <module fileurl="file://$PROJECT_DIR$/Test Loop/Test Loop.iml" filepath="$PROJECT_DIR$/Test Loop/Test Loop.iml" />
